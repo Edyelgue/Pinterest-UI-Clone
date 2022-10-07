@@ -81,6 +81,11 @@ header nav .signup {
   align-items: center;
   text-align: center;
 }
+.heading .text1 {
+  color: #111;
+  font-size: 60px;
+  font-weight: 600;
+}
 .heading .text {
   font-size: 60px;
   font-weight: 600;
@@ -96,7 +101,7 @@ header nav .signup {
 }
 .heading .text {
   white-space: nowrap;
-  color: #111;
+  color: #e60023;
   transition-duration: 1s;
 }
 
